@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2020 - 2025: Doctoral Research
+1. 2020 - 2025: Doctoral Research
   * UMass Chan Medical School, MA, USA
   
 **Duties include:**
