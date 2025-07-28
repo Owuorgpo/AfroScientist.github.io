@@ -17,10 +17,13 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020 - 2025: Doctoral Research
+  * UMass Chan Medical School, MA, USA
+  * Duties includes:
+    Designed and executed large-scale in vitro and in vivo chemical genetic studies of M. tuberculosis.
+    Developed bioinformatics pipelines for analyses of NGS-based OMICS dataset
+    Developed and employed BSL3 protocols for study of M. tuberculosis
+  * Supervisor: Christopher Sassetti
 
 * Fall 2015: Research Assistant
   * GitHub University
