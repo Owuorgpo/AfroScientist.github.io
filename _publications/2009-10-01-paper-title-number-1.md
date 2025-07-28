@@ -2,7 +2,6 @@
 title: "Chemical genetics of Tuberculosis paper 1"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The rise of multidrug-resistant tuberculosis underscores the urgent need for novel tuberculosis (TB) drugs while prioritizing synergistic drug combinations. Multiple studies have delineated bacterial pathways influencing antibiotic efficacy and uncovered druggable pathways that synergize with TB therapies. However, most studies are conducted in vitro, limiting our understanding of how the host environment influences these chemical–genetic interactions (CGIs). Using an inducible mutant library targeting essential Mycobacterium tuberculosis (Mtb) genes to characterize CGIs of first-line drugs during infection, this study reveals drug-specific and drug-agnostic CGIs that differ significantly from those observed in vitro. Synergistic CGIs comprised distinct metabolic pathways mediating antibiotic efficacy, revealing unexplored mechanisms of drug action, and defining potential drug targets that would synergize with frontline antitubercular drugs.'
 date: 2009-10-01
 venue: 'PNAS'
