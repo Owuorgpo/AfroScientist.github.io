@@ -20,30 +20,37 @@ Work experience
 **2020 - 2025: Doctoral Research**
   * UMass Chan Medical School, MA, USA
   
-**Duties include:**
-  * Designed and executed large-scale in vitro and in vivo chemical genetic studies of M. tuberculosis.
+**Duties included:**
+  * Designed and executed large-scale _in vitro_ and _in vivo_ chemical genetic studies of _M. tuberculosis_.
   * Developed bioinformatics pipelines for analyses of NGS-based OMICS dataset
   * Developed and employed BSL3 protocols for study of M. tuberculosis
 Supervisor: Christopher Sassetti
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**2018 - 2019: Visiting Research Scholar**
+  * UMass Chan Medical School, MA, USA
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Duties included:**
+  * Conducted multi-sample and multi-antigen serological surveillance of _Plasmodium falciparum_ malaria and herpesvirus in children from western Kenya.
+  * Developed bioinformatics pipelines for genomic epidemiology surveillenace of _P. falciparum_ artemisinin pre-resistance in Kenya and Tanzania.
+
+
+**2018 - 2019: Research Scientist**
+  * KEMRI/CGHR, Kisumu, Kenya
+    
+**Duties included:**
+ * Developed a molecular inversion probe (MIP) protocol to genotype cytokine single-nucleotide polymorphisms in low-quality/quantity DNA samples
+ * Participated in collaborative studies to create immortalized B-cell cell lines using endemic Burkitt lymphoma patient samples. 
+
+
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Technical Skills** - Microbiological techniques, chemical-genetic screens, strain engineering, and FACS sorting.
+* **Digital tools** – R/Python, GraphPad, Linux/Bash scripting, HPC clusters
+* **Scientific leadership** – Collaboration, strategic project planning, and implementation
+* **Mentorship & Training** – SOP creation, student training, lab onboarding
+
 
 Publications
 ======
